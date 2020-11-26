@@ -1,0 +1,2 @@
+info/garagesalesapp/domain/JsonDisplay.java
+ info.garagesalesapp.domain.JsonDisplay
